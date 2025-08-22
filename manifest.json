@@ -3,7 +3,7 @@
   "header": {
     "name": "何か作ろうぜ!",
     "description": "みんなでつくりました～",
-    "uuid": "afa9148f-22de-4cee-9410-ed8f2657f1f7",
+    "uuid": "afa9148f-22de-4cee-9410-ed8f2657f1f1",
     "version": [0, 0, 1],
     "min_engine_version": [1, 21, 100]
   },
@@ -11,7 +11,7 @@
     {
       "type": "script",
       "language": "javascript",
-      "uuid": "87a79576-2e70-4bcf-8a01-c99262239625",
+      "uuid": "87a79576-2e70-4bcf-8a01-c99262239615",
       "entry": "scripts/main.js",
       "version": [1, 0, 0]
     }
